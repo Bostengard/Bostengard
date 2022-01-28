@@ -6,4 +6,4 @@
 #### i use mainly Unity and JetBrains Rider
  
  
-If you need to contact me DM me in discord (Bostengard#4691) or write me an Email (David.parma05@gmail.com)
+If you need to contact me DM me in discord (Bostengard#4691).
