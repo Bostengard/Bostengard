@@ -1,9 +1,32 @@
-### Hi there 👋
+### Hey! i'm Bostengard
+<br>
+<div align="center">
+</div>
 
-## Im Bostengard i'm a student and i aspire being a professional game dev,
-#### For now im doing little tings here and there without really focusing on anything in specific
-#### i've programmed in C# and in Javascript and i've also done a tiny amount of HTML and CSS
-#### i use mainly Unity and JetBrains Rider
- 
- 
-If you need to contact me DM me in discord (Bostengard#4691).
+I like to create videogames with unity, i program in C# and in JS
+
+everyday i learn more
+
+My discord is <a href="https://discordapp.com/users/475383218070224896/">Bostengard#4691</a>
+
+- i like videogames, 
+- i like videogames,
+- i like videogames, 
+- i like coding.
+<br>
+
+<table>
+<tr>
+  <td>
+<div>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=bostengard&repo=bostenbot&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
+    </td>
+  <td>
+    <div>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=bostengard&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
+    </td>
+  </tr>
+  
+  
